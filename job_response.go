@@ -3,7 +3,7 @@ package model
 import (
 	"time"
 
-	"github.com/rai-project/config"
+	"github.com/c3sr/config"
 )
 
 // easyjson:json

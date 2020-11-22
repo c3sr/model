@@ -1,7 +1,7 @@
 package model
 
 import (
-	"github.com/rai-project/acl"
+	"github.com/c3sr/acl"
 	"gopkg.in/mgo.v2/bson"
 )
 

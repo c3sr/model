@@ -3,7 +3,7 @@ package model
 import (
 	"strings"
 
-	"github.com/rai-project/config"
+	"github.com/c3sr/config"
 	"gopkg.in/mgo.v2/bson"
 )
 

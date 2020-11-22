@@ -7,8 +7,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/rai-project/config"
-	mongodb "github.com/rai-project/database/mongodb"
+	"github.com/c3sr/config"
+	mongodb "github.com/c3sr/database/mongodb"
 	"gopkg.in/mgo.v2/bson"
 )
 
